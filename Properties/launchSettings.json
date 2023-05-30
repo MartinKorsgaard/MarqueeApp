@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarqueeApp": {
+      "commandName": "Project",
+      "commandLineArgs": "/message \"Hello World!\""
+    }
+  }
+}
